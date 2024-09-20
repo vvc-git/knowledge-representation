@@ -10,6 +10,6 @@ This project, undertaken as part of the Artificial Intelligence course by José 
 
 ## Deliverables
 
-- Research text as the foundation for the knowledge representation. [text]()
-- A table that organizes the structured concepts of the tourist guide system. [table](https://docs.google.com/spreadsheets/d/1_ujz7D8HHt9qPDaz7yIIfvWOtCRi83mb/edit?usp=sharing&ouid=103481108306343193966&rtpof=true&sd=true)
+- [Research text]() as the foundation for the knowledge representation.
+- A [table](https://docs.google.com/spreadsheets/d/1_ujz7D8HHt9qPDaz7yIIfvWOtCRi83mb/edit?usp=sharing&ouid=103481108306343193966&rtpof=true&sd=true) that organizes the structured concepts of the tourist guide system.
 - The logical model implemented in **Prolog**, along with the code, demonstrating the inference capabilities for the tourist guide of Argentina.
