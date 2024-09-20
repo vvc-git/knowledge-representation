@@ -1,6 +1,6 @@
 # Knowledge Representation in AI – Project Overview
 
-This project, undertaken as part of the Artificial Intelligence course by José Daniel Alves Prado, Cristian Alchini, and Victor do Valle Cunha, focuses on exploring **Knowledge Representation** techniques, particularly **Logic**, applied to the development of an **Expert System**. The chosen theme for this project was a **tourist guide system for Argentina**, where the system is designed to list the country's major tourist attractions.
+This project, undertaken as part of the Artificial Intelligence course by José Daniel Alves Prado, Cristian Alexandre Alchini, and Victor do Valle Cunha, focuses on exploring **Knowledge Representation** techniques, particularly **Logic**, applied to the development of an **Expert System**. The chosen theme for this project was a **tourist guide system for Argentina**, where the system is designed to list the country's major tourist attractions.
 
 ## Methodology
 
@@ -10,6 +10,6 @@ This project, undertaken as part of the Artificial Intelligence course by José 
 
 ## Deliverables
 
-- Research text as the foundation for the knowledge representation. [tesxt]()
+- Research text as the foundation for the knowledge representation. [text]()
 - A table that organizes the structured concepts of the tourist guide system. [table](https://docs.google.com/spreadsheets/d/1_ujz7D8HHt9qPDaz7yIIfvWOtCRi83mb/edit?usp=sharing&ouid=103481108306343193966&rtpof=true&sd=true)
 - The logical model implemented in **Prolog**, along with the code, demonstrating the inference capabilities for the tourist guide of Argentina.
